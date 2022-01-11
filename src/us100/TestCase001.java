@@ -4,7 +4,7 @@ public class TestCase001 {
 
     public static void main(String[] args) {
 
-        System.out.println("Doo True Boo");
+        System.out.println("Hello"); // extra message
     }
 
 }
